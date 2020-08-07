@@ -22,7 +22,7 @@ public class App {
 	
 	public static String f(int a) {
 		if (a < 18) {
-			return "Hello";
+			return "Hello world";
 		} else {
 			return "Bye";
 		}
